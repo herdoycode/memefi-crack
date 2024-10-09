@@ -1,0 +1,1 @@
+query_id=AAFPpt0DAwAAAE-m3QMueNdZ&user=%7B%22id%22%3A6507308623%2C%22first_name%22%3A%22Herdoy%22%2C%22last_name%22%3A%22Almamun%22%2C%22username%22%3A%22herdoycode%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1728450542&hash=414c35b2a3c68c08775906bb83508b52b3b9f998d61cacdc5ada8dfe16ab934a
